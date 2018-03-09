@@ -1,0 +1,11 @@
+C:\Users\asaba\Documents\DocAnalise\DocAnalise\bin\Debug\DocAnalise.exe.config
+C:\Users\asaba\Documents\DocAnalise\DocAnalise\obj\Debug\DocAnalise.csprojResolveAssemblyReference.cache
+C:\Users\asaba\Documents\DocAnalise\DocAnalise\bin\Debug\DocAnalise.exe
+C:\Users\asaba\Documents\DocAnalise\DocAnalise\bin\Debug\DocAnalise.pdb
+C:\Users\asaba\Documents\DocAnalise\DocAnalise\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\asaba\Documents\DocAnalise\DocAnalise\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\asaba\Documents\DocAnalise\DocAnalise\obj\Debug\DocAnalise.exe
+C:\Users\asaba\Documents\DocAnalise\DocAnalise\obj\Debug\DocAnalise.pdb
+E:\Со старого компьютера\Windows 10\Documents\DocAnalise\DocAnalise\bin\Debug\DocAnalise.exe.config
+E:\Со старого компьютера\Windows 10\Documents\DocAnalise\DocAnalise\obj\Debug\DocAnalise.exe
+E:\Со старого компьютера\Windows 10\Documents\DocAnalise\DocAnalise\obj\Debug\DocAnalise.pdb

@@ -1,0 +1,2527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:body>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2431" w:leader="none" />
+          <w:tab w:val="left" w:pos="2618" w:leader="none" />
+          <w:tab w:val="left" w:pos="3366" w:leader="none" />
+          <w:tab w:val="left" w:pos="3927" w:leader="none" />
+          <w:tab w:val="left" w:pos="4114" w:leader="none" />
+          <w:tab w:val="left" w:pos="4301" w:leader="none" />
+          <w:tab w:val="left" w:pos="4862" w:leader="none" />
+          <w:tab w:val="left" w:pos="5610" w:leader="none" />
+          <w:tab w:val="left" w:pos="5797" w:leader="none" />
+          <w:tab w:val="left" w:pos="5977" w:leader="none" />
+          <w:tab w:val="left" w:pos="6120" w:leader="none" />
+          <w:tab w:val="left" w:pos="6171" w:leader="none" />
+          <w:tab w:val="left" w:pos="6919" w:leader="none" />
+          <w:tab w:val="left" w:pos="7106" w:leader="none" />
+          <w:tab w:val="left" w:pos="7293" w:leader="none" />
+          <w:tab w:val="left" w:pos="8415" w:leader="none" />
+          <w:tab w:val="left" w:pos="8970" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="5580" w:hanging="5580" />
+        <w:jc w:val="right" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Приложение </w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2431" w:leader="none" />
+          <w:tab w:val="left" w:pos="2618" w:leader="none" />
+          <w:tab w:val="left" w:pos="3366" w:leader="none" />
+          <w:tab w:val="left" w:pos="3927" w:leader="none" />
+          <w:tab w:val="left" w:pos="4114" w:leader="none" />
+          <w:tab w:val="left" w:pos="4301" w:leader="none" />
+          <w:tab w:val="left" w:pos="4862" w:leader="none" />
+          <w:tab w:val="left" w:pos="5610" w:leader="none" />
+          <w:tab w:val="left" w:pos="5797" w:leader="none" />
+          <w:tab w:val="left" w:pos="5977" w:leader="none" />
+          <w:tab w:val="left" w:pos="6120" w:leader="none" />
+          <w:tab w:val="left" w:pos="6171" w:leader="none" />
+          <w:tab w:val="left" w:pos="6919" w:leader="none" />
+          <w:tab w:val="left" w:pos="7106" w:leader="none" />
+          <w:tab w:val="left" w:pos="7293" w:leader="none" />
+          <w:tab w:val="left" w:pos="8415" w:leader="none" />
+          <w:tab w:val="left" w:pos="8970" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="5580" w:hanging="5580" />
+        <w:jc w:val="right" />
+        <w:rPr>
+          <w:rFonts w:ascii="Helvetica Neue" w:hAnsi="Helvetica Neue" w:cs="Helvetica Neue" w:eastAsia="Helvetica Neue" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="32" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2431" w:leader="none" />
+          <w:tab w:val="left" w:pos="2618" w:leader="none" />
+          <w:tab w:val="left" w:pos="3366" w:leader="none" />
+          <w:tab w:val="left" w:pos="3927" w:leader="none" />
+          <w:tab w:val="left" w:pos="4114" w:leader="none" />
+          <w:tab w:val="left" w:pos="4301" w:leader="none" />
+          <w:tab w:val="left" w:pos="4862" w:leader="none" />
+          <w:tab w:val="left" w:pos="5610" w:leader="none" />
+          <w:tab w:val="left" w:pos="5797" w:leader="none" />
+          <w:tab w:val="left" w:pos="5977" w:leader="none" />
+          <w:tab w:val="left" w:pos="6120" w:leader="none" />
+          <w:tab w:val="left" w:pos="6171" w:leader="none" />
+          <w:tab w:val="left" w:pos="6919" w:leader="none" />
+          <w:tab w:val="left" w:pos="7106" w:leader="none" />
+          <w:tab w:val="left" w:pos="7293" w:leader="none" />
+          <w:tab w:val="left" w:pos="8415" w:leader="none" />
+          <w:tab w:val="left" w:pos="8970" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="5580" w:hanging="5580" />
+        <w:jc w:val="center" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Министерство образования и науки Российской Федерации</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2431" w:leader="none" />
+          <w:tab w:val="left" w:pos="2618" w:leader="none" />
+          <w:tab w:val="left" w:pos="3366" w:leader="none" />
+          <w:tab w:val="left" w:pos="3927" w:leader="none" />
+          <w:tab w:val="left" w:pos="4114" w:leader="none" />
+          <w:tab w:val="left" w:pos="4301" w:leader="none" />
+          <w:tab w:val="left" w:pos="4862" w:leader="none" />
+          <w:tab w:val="left" w:pos="5610" w:leader="none" />
+          <w:tab w:val="left" w:pos="5797" w:leader="none" />
+          <w:tab w:val="left" w:pos="5977" w:leader="none" />
+          <w:tab w:val="left" w:pos="6120" w:leader="none" />
+          <w:tab w:val="left" w:pos="6171" w:leader="none" />
+          <w:tab w:val="left" w:pos="6919" w:leader="none" />
+          <w:tab w:val="left" w:pos="7106" w:leader="none" />
+          <w:tab w:val="left" w:pos="7293" w:leader="none" />
+          <w:tab w:val="left" w:pos="8415" w:leader="none" />
+          <w:tab w:val="left" w:pos="8970" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="5580" w:hanging="5580" />
+        <w:jc w:val="center" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">федеральное государственное автономное образовательное учреждение</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2431" w:leader="none" />
+          <w:tab w:val="left" w:pos="2618" w:leader="none" />
+          <w:tab w:val="left" w:pos="3366" w:leader="none" />
+          <w:tab w:val="left" w:pos="3927" w:leader="none" />
+          <w:tab w:val="left" w:pos="4114" w:leader="none" />
+          <w:tab w:val="left" w:pos="4301" w:leader="none" />
+          <w:tab w:val="left" w:pos="4862" w:leader="none" />
+          <w:tab w:val="left" w:pos="5610" w:leader="none" />
+          <w:tab w:val="left" w:pos="5797" w:leader="none" />
+          <w:tab w:val="left" w:pos="5977" w:leader="none" />
+          <w:tab w:val="left" w:pos="6120" w:leader="none" />
+          <w:tab w:val="left" w:pos="6171" w:leader="none" />
+          <w:tab w:val="left" w:pos="6919" w:leader="none" />
+          <w:tab w:val="left" w:pos="7106" w:leader="none" />
+          <w:tab w:val="left" w:pos="7293" w:leader="none" />
+          <w:tab w:val="left" w:pos="8415" w:leader="none" />
+          <w:tab w:val="left" w:pos="8970" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="5580" w:hanging="5580" />
+        <w:jc w:val="center" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">высшего образования</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="2431" w:leader="none" />
+          <w:tab w:val="left" w:pos="2618" w:leader="none" />
+          <w:tab w:val="left" w:pos="3366" w:leader="none" />
+          <w:tab w:val="left" w:pos="3927" w:leader="none" />
+          <w:tab w:val="left" w:pos="4114" w:leader="none" />
+          <w:tab w:val="left" w:pos="4301" w:leader="none" />
+          <w:tab w:val="left" w:pos="4862" w:leader="none" />
+          <w:tab w:val="left" w:pos="5610" w:leader="none" />
+          <w:tab w:val="left" w:pos="5797" w:leader="none" />
+          <w:tab w:val="left" w:pos="5977" w:leader="none" />
+          <w:tab w:val="left" w:pos="6120" w:leader="none" />
+          <w:tab w:val="left" w:pos="6171" w:leader="none" />
+          <w:tab w:val="left" w:pos="6919" w:leader="none" />
+          <w:tab w:val="left" w:pos="7106" w:leader="none" />
+          <w:tab w:val="left" w:pos="7293" w:leader="none" />
+          <w:tab w:val="left" w:pos="8415" w:leader="none" />
+          <w:tab w:val="left" w:pos="8970" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="5580" w:hanging="5580" />
+        <w:jc w:val="center" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">«</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Казанский (Приволжский) федеральный университет</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">»</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="120" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="center" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Индивидуальное задание (план-график)</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="center" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">на </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">#</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">typeOfPractice</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">#</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve"> практику</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="16" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="16" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">                                                                       (</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="16" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">учебная, производственная, преддипломная)</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="center" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">(20</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{fy}</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">/ 20</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{ly}</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">учебный год)</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="675" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Институт</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">/факультет</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{institute}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Направление подготовки, профиль </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{specialty}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="16" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Место прохождения практики </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{department}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="16" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Обучающийся </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{StudentFIO}, {step}, {group}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Срок прохождения практики с </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{frstDate}</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve"> по </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{lastDate}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="16" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Руководитель практики от Университета </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{TeacherFIO}, {Position}, {AcademicTitle}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="16" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Содержание индивидуального задания на практику:</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:tbl>
+      <w:tblPr />
+      <w:tblGrid>
+        <w:gridCol w:w="812" />
+        <w:gridCol w:w="6701" />
+        <w:gridCol w:w="2694" />
+      </w:tblGrid>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="1260" w:hRule="auto" />
+          <w:jc w:val="left" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="812" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Segoe UI Symbol" w:hAnsi="Segoe UI Symbol" w:cs="Segoe UI Symbol" w:eastAsia="Segoe UI Symbol" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">№</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">п/п</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6701" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">Индивидуальные задания </w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">(</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">перечень и описание работ)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2694" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="601" w:hanging="601" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">Сроки выполнения</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="601" w:hanging="601" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">(</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">график)</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="440" w:hRule="auto" />
+          <w:jc w:val="left" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="812" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">1.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6701" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="left" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{frstTask}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2694" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">txt</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{FD1}</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">по </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{LD1}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="400" w:hRule="auto" />
+          <w:jc w:val="left" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="812" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">2.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6701" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="left" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{secondTask}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2694" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">с </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{FD2}</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve"> по </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{LD2}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="400" w:hRule="auto" />
+          <w:jc w:val="left" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="812" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">3.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6701" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="center" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="left" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{thirdTask}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2694" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">с </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{FD3}</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve"> по </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{LD3}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="420" w:hRule="auto" />
+          <w:jc w:val="left" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="812" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">4.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6701" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="left" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{fourthTask}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2694" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">с </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{FD4}</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve"> по </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{LD4}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="400" w:hRule="auto" />
+          <w:jc w:val="left" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="812" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">5.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6701" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="left" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{fifthTask}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2694" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="000000" w:sz="4" />
+              <w:left w:val="single" w:color="000000" w:sz="4" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" />
+              <w:right w:val="single" w:color="000000" w:sz="4" />
+            </w:tcBorders>
+            <w:shd w:color="000000" w:fill="ffffff" w:val="clear" />
+            <w:tcMar>
+              <w:left w:w="108" w:type="dxa" />
+              <w:right w:w="108" w:type="dxa" />
+            </w:tcMar>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="240" />
+              <w:ind w:right="0" w:left="0" w:firstLine="0" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">с </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{FD5}</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="22" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve"> по </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+                <w:color w:val="000000" />
+                <w:spacing w:val="0" />
+                <w:position w:val="0" />
+                <w:sz w:val="24" />
+                <w:u w:val="single" />
+                <w:shd w:fill="auto" w:val="clear" />
+              </w:rPr>
+              <w:t xml:space="preserve">{LD5}</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="center" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="28" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="3945" w:leader="none" />
+          <w:tab w:val="left" w:pos="8175" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Руководитель практики  от Университета     </w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="3945" w:leader="none" />
+          <w:tab w:val="left" w:pos="8175" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{Position}, {AcademicTitle}</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">                              __________________       </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{TeacherFIO}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="-567" w:firstLine="567" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">      (</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">должность, ученое звание)                                                                                                                         (ФИО)</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="709" />
+        <w:jc w:val="both" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="709" />
+        <w:jc w:val="both" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:firstLine="0" />
+        <w:jc w:val="both" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:b />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Согласовано:</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="0" w:left="0" w:hanging="567" />
+        <w:jc w:val="both" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="3945" w:leader="none" />
+          <w:tab w:val="left" w:pos="8175" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Руководитель практики  </w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="3945" w:leader="none" />
+          <w:tab w:val="left" w:pos="4536" w:leader="none" />
+          <w:tab w:val="left" w:pos="4678" w:leader="none" />
+          <w:tab w:val="left" w:pos="4820" w:leader="none" />
+          <w:tab w:val="left" w:pos="7088" w:leader="none" />
+          <w:tab w:val="left" w:pos="7371" w:leader="none" />
+          <w:tab w:val="left" w:pos="8175" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">от профильной организации                          </w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="left" w:pos="3945" w:leader="none" />
+          <w:tab w:val="left" w:pos="4536" w:leader="none" />
+          <w:tab w:val="left" w:pos="4678" w:leader="none" />
+          <w:tab w:val="left" w:pos="4820" w:leader="none" />
+          <w:tab w:val="left" w:pos="7088" w:leader="none" />
+          <w:tab w:val="left" w:pos="7371" w:leader="none" />
+          <w:tab w:val="left" w:pos="8175" w:leader="none" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{Position}, {AcademicTitle}</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">                               __________________       </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{GenFIO}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">                  (</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">должность)                                                                                                                                      (ФИО)</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">Ознакомлен                                 </w:t>
+        <w:tab />
+        <w:tab />
+        <w:t xml:space="preserve">      __________________        </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:u w:val="single" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">{StudentFIO}</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="240" />
+        <w:ind w:right="-142" w:left="0" w:firstLine="0" />
+        <w:jc w:val="left" />
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="24" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">                                                                                                                             </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">(</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman" w:eastAsia="Times New Roman" />
+          <w:i />
+          <w:color w:val="000000" />
+          <w:spacing w:val="0" />
+          <w:position w:val="0" />
+          <w:sz w:val="18" />
+          <w:shd w:fill="auto" w:val="clear" />
+        </w:rPr>
+        <w:t xml:space="preserve">ФИО обучающегося)</w:t>
+      </w:r>
+    </w:p>
+  </w:body>
+</w:document>
